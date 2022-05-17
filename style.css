@@ -1,0 +1,25 @@
+*{
+  box-sizing:border-box;
+  font-family:serif;
+}
+body{
+  text-align:center;
+  background-color: lightgoldenrodyellow;
+  color: green;
+}
+#intro{
+  position:absolute;
+  top:40%;
+  left:33.5%;
+  background-color:azure;
+  color:rgb(238, 183, 81);
+  width:33%;
+}
+#demo{
+  position:absolute;
+  top:62%;
+  left:43.5%;
+  background-color:azure;
+  color:rgb(238, 183, 81);
+  width:13%;
+}
